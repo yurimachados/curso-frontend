@@ -13,8 +13,8 @@
 
  ## Instalação do Git
 
- Linux (apt-get): sudo apt-get install git
- Mac (brew): brew install git
+  - Linux (apt-get): sudo apt-get install git
+  - Mac (brew): brew install git
 
  ## Criar conta Github
 
