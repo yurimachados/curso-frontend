@@ -44,5 +44,14 @@ São ramificações / versões paralelas
 
 ### Merge
 mescla de branch
+Você pode precisar resover conflitos manualmente
 
+git merge main
 
+### Pull Requests
+Mescla de branches no repositório
+Permite code review
+
+### configurar o GitFlow
+git flow init
+git flow feature start (nome-da-feature)
